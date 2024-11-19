@@ -1,0 +1,3 @@
+C:/Users/Herman/CLionProjects/safe_ranges/cmake-build-debug/CMakeFiles/safe_ranges.dir
+C:/Users/Herman/CLionProjects/safe_ranges/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Herman/CLionProjects/safe_ranges/cmake-build-debug/CMakeFiles/rebuild_cache.dir
