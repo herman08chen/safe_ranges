@@ -4,4 +4,6 @@ project(safe_ranges)
 set(CMAKE_CXX_STANDARD 23)
 
 add_executable(safe_ranges main.cpp
-        safe_ranges.cpp)
+        safe_ranges.cpp
+        safe_iterator.cpp
+        control_block.cpp)

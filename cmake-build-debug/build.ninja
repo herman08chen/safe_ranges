@@ -61,6 +61,18 @@ build CMakeFiles/safe_ranges.dir/safe_ranges.cpp.obj: CXX_COMPILER__safe_ranges_
   OBJECT_DIR = CMakeFiles\safe_ranges.dir
   OBJECT_FILE_DIR = CMakeFiles\safe_ranges.dir
 
+build CMakeFiles/safe_ranges.dir/safe_iterator.cpp.obj: CXX_COMPILER__safe_ranges_unscanned_Debug C$:/Users/Herman/CLionProjects/safe_ranges/safe_iterator.cpp || cmake_object_order_depends_target_safe_ranges
+  DEP_FILE = CMakeFiles\safe_ranges.dir\safe_iterator.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\safe_ranges.dir
+  OBJECT_FILE_DIR = CMakeFiles\safe_ranges.dir
+
+build CMakeFiles/safe_ranges.dir/control_block.cpp.obj: CXX_COMPILER__safe_ranges_unscanned_Debug C$:/Users/Herman/CLionProjects/safe_ranges/control_block.cpp || cmake_object_order_depends_target_safe_ranges
+  DEP_FILE = CMakeFiles\safe_ranges.dir\control_block.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\safe_ranges.dir
+  OBJECT_FILE_DIR = CMakeFiles\safe_ranges.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target safe_ranges
@@ -69,7 +81,7 @@ build CMakeFiles/safe_ranges.dir/safe_ranges.cpp.obj: CXX_COMPILER__safe_ranges_
 #############################################
 # Link the executable safe_ranges.exe
 
-build safe_ranges.exe: CXX_EXECUTABLE_LINKER__safe_ranges_Debug CMakeFiles/safe_ranges.dir/main.cpp.obj CMakeFiles/safe_ranges.dir/safe_ranges.cpp.obj
+build safe_ranges.exe: CXX_EXECUTABLE_LINKER__safe_ranges_Debug CMakeFiles/safe_ranges.dir/main.cpp.obj CMakeFiles/safe_ranges.dir/safe_ranges.cpp.obj CMakeFiles/safe_ranges.dir/safe_iterator.cpp.obj CMakeFiles/safe_ranges.dir/control_block.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\safe_ranges.dir

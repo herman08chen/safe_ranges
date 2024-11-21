@@ -1,20 +1,10 @@
 # ninja log v6
-6	777	7536829665255150	CMakeFiles/safe_ranges.dir/safe_ranges.cpp.obj	eba35b6f23c353b4
-10	760	7536830339161104	CMakeFiles/safe_ranges.dir/safe_ranges.cpp.obj	eba35b6f23c353b4
-6	965	7536830339111239	CMakeFiles/safe_ranges.dir/main.cpp.obj	a49ff22c7adf87d5
-965	1390	7536830348701084	safe_ranges.exe	e34800da6f64a635
-6	935	7536832034560478	CMakeFiles/safe_ranges.dir/main.cpp.obj	a49ff22c7adf87d5
-936	1279	7536832043857591	safe_ranges.exe	e34800da6f64a635
-11	774	7536833052101573	CMakeFiles/safe_ranges.dir/safe_ranges.cpp.obj	eba35b6f23c353b4
-6	972	7536833052050442	CMakeFiles/safe_ranges.dir/main.cpp.obj	a49ff22c7adf87d5
-972	1322	7536833061705086	safe_ranges.exe	e34800da6f64a635
-10	865	7536843530676769	CMakeFiles/safe_ranges.dir/safe_ranges.cpp.obj	eba35b6f23c353b4
-10	797	7536844401230708	CMakeFiles/safe_ranges.dir/safe_ranges.cpp.obj	eba35b6f23c353b4
-6	1056	7536844401190701	CMakeFiles/safe_ranges.dir/main.cpp.obj	a49ff22c7adf87d5
-1057	1415	7536844411697980	safe_ranges.exe	e34800da6f64a635
-10	938	7536845742192398	CMakeFiles/safe_ranges.dir/safe_ranges.cpp.obj	eba35b6f23c353b4
-6	1194	7536845742152377	CMakeFiles/safe_ranges.dir/main.cpp.obj	a49ff22c7adf87d5
-1194	1560	7536845754033511	safe_ranges.exe	e34800da6f64a635
-11	782	7536857915828466	CMakeFiles/safe_ranges.dir/safe_ranges.cpp.obj	eba35b6f23c353b4
 6	1024	7536857915787696	CMakeFiles/safe_ranges.dir/main.cpp.obj	a49ff22c7adf87d5
+11	782	7536857915828466	CMakeFiles/safe_ranges.dir/safe_ranges.cpp.obj	eba35b6f23c353b4
 1024	1376	7536857925961106	safe_ranges.exe	e34800da6f64a635
+2	275	7538611209599316	build.ninja	eec3aa839feb69be
+130	391	7538611211259040	CMakeFiles/safe_ranges.dir/control_block.cpp.obj	af55947652c6e95c
+78	982	7538611210739028	CMakeFiles/safe_ranges.dir/safe_iterator.cpp.obj	7f982a63a8faaf32
+69	987	7538611210658993	CMakeFiles/safe_ranges.dir/safe_ranges.cpp.obj	eba35b6f23c353b4
+6	1235	7538611210018985	CMakeFiles/safe_ranges.dir/main.cpp.obj	a49ff22c7adf87d5
+1235	1711	7538611222310412	safe_ranges.exe	68bf7bbf47d2ebaf
