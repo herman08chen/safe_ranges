@@ -16,7 +16,7 @@ int main() {
     }
     try{
         auto it = range.begin();
-        range.get_iter_inv().resize(1000);
+        range.get().resize(1000);
         std::cout << *it << std::endl;
     }
     catch(const std::out_of_range& e) {
